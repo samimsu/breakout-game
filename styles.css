@@ -1,0 +1,15 @@
+.game {
+    display: flex;
+    justify-content: center;
+    margin: 48px;
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    max-width: 100%;
+}
+
+.game-info {
+    text-align: center;
+}
